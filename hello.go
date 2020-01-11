@@ -1,5 +1,7 @@
 // This is beginner program in golang
 
+// This is beginner program in golang. Classic hello world program
+
 package main
 
 import "fmt"
