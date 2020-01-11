@@ -1,4 +1,4 @@
-// This is beginner program in golang. Classic hello world program vscode\
+// This is beginner program in golang. Classic hello world program.
 
 package main
 
